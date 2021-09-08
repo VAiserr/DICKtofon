@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Gnom/AndroidStudioProjects/dickTofon/app/src/main/res/drawable-anydpi/ic_closeBtn.xml" value="0.25675675675675674" />
+        <entry key="..\:/Users/Gnom/AndroidStudioProjects/dickTofon/app/src/main/res/drawable-anydpi/ic_sendBtn.xml" value="0.14765625" />
         <entry key="..\:/Users/Gnom/AndroidStudioProjects/dickTofon/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2898148148148148" />
         <entry key="..\:/Users/Gnom/AndroidStudioProjects/dickTofon/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2898148148148148" />
-        <entry key="..\:/Users/Gnom/AndroidStudioProjects/dickTofon/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Gnom/AndroidStudioProjects/dickTofon/app/src/main/res/drawable/round_button.xml" value="0.25675675675675674" />
+        <entry key="..\:/Users/Gnom/AndroidStudioProjects/dickTofon/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Gnom/AndroidStudioProjects/dickTofon/app/src/main/res/layout/dialog_box.xml" value="0.24478764478764478" />
       </map>
     </option>
   </component>
