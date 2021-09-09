@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">dickTofon</string>
+    <string name="app_name1">dickTofon</string>
     <string name="mic_title_btn">Запись</string>
+
+    <string name="intro">Press the button to speak!</string>
+    <string name="app_name">SpeechRepeat</string>
+    <string name="speech">Speak now!</string>
+    <string name="word_intro">Suggested words&#8230;</string>
 </resources>
